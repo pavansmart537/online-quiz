@@ -9,6 +9,15 @@ const quizData = [
       options: ['Mars', 'Saturn', 'Jupiter', 'Neptune'],
       answer: 'Jupiter',
     },
+        {
+      question: 'Which is latest movie of rajini?',
+      options: ['robo', 'robo 2.0', 'jailer', 'peta'],
+      answer: 'jailer',
+    },    {
+      question: 'What is the largest planet in our solar system?',
+      options: ['Mars', 'Saturn', 'Jupiter', 'Neptune'],
+      answer: 'Jupiter',
+    },
     {
       question: 'Which country won the FIFA World Cup in 2018?',
       options: ['Brazil', 'Germany', 'France', 'Argentina'],
